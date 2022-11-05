@@ -20,7 +20,7 @@ CSS
 HTML5
 
 ## Usage
-This app is for those busy people who need their days planned accordingly. Sometimes using a calendar app is too confusing and having a listed todo list.
+This app is for those busy people who need their work days planned accordingly. Sometimes using a calendar app is more confusing than  a simple listed todo list.
 
 
 ## Deployment

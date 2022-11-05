@@ -1,6 +1,6 @@
 // ASSIGNMENT CODE
 var currentHour = new Date().getHours();
-var activity= this.siblings('.description').val().localStorage.setItem(currentHour);
+var activity= this.siblings('.description').val().localStorage.setItem();
 function init() {
         for (var i = 9; i < 18; i++) {
         var colorKey = "";
@@ -25,6 +25,7 @@ function init() {
     var saveBtn = $(`<button>`).addClass('col-2 saveBtn').click(function(){ 
         localStorage.setItem(currentHour, activity);
     })
+    $('.container').append(row.append(hour,textArea,saveBtn))
   };
 
 // INITIALIZATION
