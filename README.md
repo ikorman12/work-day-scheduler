@@ -12,7 +12,7 @@
 *[Contact](#contact)
 
 ## Introduction
-This app introudces a scrollable todolist which can be added and saved accordingly. 
+This app introudces a scrollable todolist which can be edited, added and saved accordingly. This can help one to really follow a game plan as to how to accomplish things.
 
 ## Technologies Used
 Javascript
@@ -28,10 +28,10 @@ This app is for those busy people who need their work days planned accordingly. 
 -[Live-deployment](https://ikorman12.github.io/work-day-scheduler/)
 
 ## Screenshots
-![image description](link to picture in diretory)
+![Landing-Page](./assets/images/Screen%20Shot%202022-11-05%20at%204.11.03%20PM.png)
 
 ## Future
-Future implementations of this app would be to incorporate other features such as reminders on the todo events so the user will never forget what needs to be done.
+Future implementations of this app would be to incorporate other features such as reminders on the todo events so the user will never forget what needs to be done. Implemeneting a save option so that the user can reload the page without issues and create a better experience
 
 ## Credits
 Igor Korman
